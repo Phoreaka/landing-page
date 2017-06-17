@@ -1,10 +1,10 @@
-@import url("opensanshebrew_regular/stylesheet.css");
+
 body {
 	background-image: url(orig_66555.jpg);
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
-	font-family: "opensanshebrew regular";
+	font-family: 'Assistant', sans-serif;
 	direction: rtl;
 }
 .main {
@@ -18,7 +18,7 @@ body {
 }
 .textone {
 	text-align: center;
-	font-family: "opensanshebrew regular";
+	font-family: 'Assistant', sans-serif;
 	font-size: xx-large;
 	color: rgba(255,255,255,1.00);
 	padding-left: 5px;
@@ -60,7 +60,7 @@ body {
 	font-size: large;
 	width: 50px;
 	height: 50px;
-	font-family: "opensanshebrew regular";
+	font-family: 'Assistant', sans-serif;
 	background-color: rgba(255,255,255,1.00);
 	text-align: center;
 	text-shadow: 0 0;
@@ -74,7 +74,7 @@ body {
 	font-size: large;
 	width: 50px;
 	height: 30px;
-	font-family: "opensanshebrew regular";
+	font-family: 'Assistant', sans-serif;
 	background-color: rgba(0,135,46,1.00);
 	text-align: center;
 	text-shadow: 0 0;
@@ -92,7 +92,7 @@ body {
 
 @media (max-width: 400px){
 body {
-	font-family: "opensanshebrew regular";
+	font-family: 'Assistant', sans-serif;
 	direction: rtl;
 	background-image: url(webbackground.jpg);
 	background-repeat: no-repeat;
@@ -118,7 +118,7 @@ body {
 }
 .textone {
 	text-align: center;
-	font-family: "opensanshebrew regular";
+	font-family: 'Assistant', sans-serif;
 	font-size: x-large;
 	color: rgba(255,255,255,1.00);
 	padding-left: 5px;
