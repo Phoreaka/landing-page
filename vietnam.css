@@ -90,7 +90,7 @@ body {
 	margin-top: 20px;
 }
 
-@media (max-width: 400px){
+@media (max-width: 350px){
 body {
 	font-family: 'Assistant', sans-serif;
 	direction: rtl;
