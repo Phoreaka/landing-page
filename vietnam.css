@@ -14,7 +14,7 @@ body {
 	position: absolute;
 	right: 49px;
 	top: 5%;
-	min-width: 450px;
+	min-width: 350px;
 }
 .textone {
 	text-align: center;
@@ -58,8 +58,8 @@ body {
 }
 .send {
 	font-size: large;
-	width: 50px;
-	height: 50px;
+	width: 60px;
+	height: 30px;
 	font-family: 'Assistant', sans-serif;
 	background-color: rgba(255,255,255,1.00);
 	text-align: center;
@@ -72,7 +72,7 @@ body {
 }
 .send:hover {
 	font-size: large;
-	width: 50px;
+	width: 60px;
 	height: 30px;
 	font-family: 'Assistant', sans-serif;
 	background-color: rgba(0,135,46,1.00);
@@ -104,17 +104,17 @@ body {
 	padding: none;
 	margin-bottom: 0px;
 	clear: none;
-	display: block;
+    width: 100vw;
 }
 .main {
 	background-color: rgba(100,100,100,0.40);
-	width: 200px;
 	height: auto;
 	margin-left: auto;
 	margin-right: auto;
 	padding-top: 5px;
 	padding-bottom: 10px;
 	position: relative;
+    max-width: 350px;
 }
 .textone {
 	text-align: center;
