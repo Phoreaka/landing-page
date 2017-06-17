@@ -58,8 +58,8 @@ body {
 }
 .send {
 	font-size: large;
-	width: 60px;
-	height: 30px;
+	width: 50px;
+	height: 50px;
 	font-family: "opensanshebrew regular";
 	background-color: rgba(255,255,255,1.00);
 	text-align: center;
@@ -72,7 +72,7 @@ body {
 }
 .send:hover {
 	font-size: large;
-	width: 60px;
+	width: 50px;
 	height: 30px;
 	font-family: "opensanshebrew regular";
 	background-color: rgba(0,135,46,1.00);
